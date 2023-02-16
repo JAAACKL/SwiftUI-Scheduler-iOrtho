@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "infinitecalendar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shohe/InfiniteCalendar.git",
+      "state" : {
+        "revision" : "2c2e736aac019a9fb5f82b2f2b116cd8e7aac6c3",
+        "version" : "0.2.12"
+      }
+    }
+  ],
+  "version" : 2
+}
